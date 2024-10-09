@@ -20,7 +20,7 @@ Main experiences: ● Software Engineering ● PHP, GoLang, Node.js ● TypeScri
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelojeantech&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-### links para outras redes:
+### links to others social medias:
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marcelojeantech/)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/mmarcelojean/)
