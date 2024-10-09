@@ -7,6 +7,10 @@ With over 6 years of experience as a Software Engineer, I specialize in PHP, Nod
 🌟 Successfully led the transition of monolithic systems to microservices, improving scalability and maintainability. | Flapper
 
 🌟 Streamlined backend services and integrations, reducing technical debt and enhancing platform performance. | BrandLovrs
+  🔧 Problem Solving
+      I solved the problem about the latency in App that did return in 5s to 600ms-1s using Cache Redis.
+      I did deliver an chatbot integrated with Chat GPT (OpenAI), Crisp, ChainDesk.
+      Everyday i did deliver many features to company.
 
 🌟 Optimized backend e-commerce platforms using PHP, reducing maintenance costs and improving stability. | Moovin
 
