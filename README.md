@@ -19,13 +19,13 @@ I've contributed to key projects in major companies like **BrandLovrs**, **Flapp
 I am certified in **PHP** (TDD, PHPUnit) and **Node.js** (MVC, TDD, DDD, Clean Architecture), and have hands-on experience with the following technologies:
 
 - **Programming Languages**: PHP, GoLang, Node.js, TypeScript
-- **Frameworks**: Express, Fiber
+- **Frameworks**: Express, NestJS
 - **Architecture**: REST APIs, Microservices
 - **Cloud Platforms**: AWS, GCP
 - **Development Practices**: Agile (Scrum), Domain-Driven Design, CQRS
 - **DevOps**: CI/CD, Docker, Kubernetes
 - **Infrastructure**: Linux, Terraform (IaC)
-- **Database Technologies**: MongoDB, Prisma
+- **Database Technologies**: MongoDB, Prisma, Postgress
 - **Leadership**: Leading development teams, project management
 
 ## 💬 Contact Me
