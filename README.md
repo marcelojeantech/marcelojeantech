@@ -1,47 +1,36 @@
 # Hi there 👋
 
-With over 6 years of experience as a Software Engineer, I specialize in PHP, Node.js, and Go, helping companies optimize their systems and achieve measurable results. My expertise spans a wide array of technologies, applied to drive success in various organizations.
+Experienced Software Engineer specializing in backend development, cloud computing, and scalable architectures. Passionate about building high-performance, maintainable solutions following best engineering practices. Skilled in microservices, serverless applications, event-driven architectures, and big data processing. Proven ability to work in fast-paced, cross-functional teams, ensuring software efficiency, security, and scalability.
 
-## 🚀 Contributions to Major Companies
+Currectly experience:
+🚀 Architecture & Development:
+Designed and scaled the BrandLovrs platform, including the APIs to App for creators and the Brand Portal for brands. Focused on efficiency, security, and scalability to deliver a robust and future-proof system aligned with business growth.
 
-I've contributed to key projects in major companies like **BrandLovrs**, **Flapper**, and **Deliver IT**, delivering impactful results such as:
+💡 Innovation & Optimization:
+✅ AI Matchmaking: Built an AI-powered tool for creator-brand matchmaking, revolutionizing creator marketing with fast, efficient connections.
+✅ Platform Performance: Streamlined processes for brands and creators, boosting engagement and satisfaction rates.
+✅ Scalability: Optimized systems to support rapid growth, ensuring reliability and responsiveness.
 
-- 🌟 **Flapper**: Successfully led the transition from monolithic systems to microservices, improving scalability and maintainability.
-- 🌟 **BrandLovrs**: Streamlined backend services and integrations, reducing technical debt and enhancing platform performance.
-  - 🔧 **Problem Solving**:
-    - Solved an app latency issue, reducing response times from 5s to 600ms-1s using Redis Cache.
-    - Integrated ChatGPT (OpenAI) with Crisp and ChainDesk, delivering a chatbot solution.
-    - Consistently delivered new features on a daily basis.
-- 🌟 **Moovin**: Optimized backend e-commerce platforms using PHP, reducing maintenance costs and improving stability.
+🔧 Problem Solving:
+✅ Integrated with top eCommerce platforms (Vtex, Yampi, Shopify, Tray, Magento, WooCommerce, Oracle, Nuvemshop, Vnda, Dooca, and Melishops), enabling features like coupons, campaigns, orders, and gift cards for seamless API interoperability.
+✅ ETL large-scale processing with Glue.
+✅ Connected messaging systems (Crisp WhatsApp) and creator analysis tools (Modash) to enhance communication and campaign management.
+✅ CRM communications (Push, SMS, E-mail, others providers)
+✅ Creator Pay (Payment service)
+✅ Migration +200 lambda in Node.js to ECS Golang for + performance
+✅ Added SSO Login with Google and Apple - Reduces drop onboarding by 70%
+✅ Added Unit and BDD tests for ensure quality and scalability system. - Reduces drop bug by 85%
+✅ Fixed bug duplicated e-mails, improve CRM comunications, KPR like DQR (Data Quality Rate), (Email Deliverability Rate), (Bounce Rate).
+✅ Fixed bug added fallback and circuit-breaker when service provider sms is down.
 
-## 🛠️ Skills & Expertise
+Technical Skills
+● Languages: Golang, NodeJS, TypeScript, PHP
+● Cloud & DevOps: AWS, GCP, Docker, CI/CD, Serverless (AWS Lambda, GCP Functions)
+● Architecture: Microservices, Event-Driven, Domain-Driven Design (DDD), Clean Code
+● Databases: SQL (PostgreSQL, MySQL, Redshift, BigQuery), NoSQL (MongoDB, Redis, Firestore)
+● Data Engineering: ETL, Data Pipelines, AWS Glue, Airbyte, Streaming & Batch Processing
 
-I am certified in **PHP** (TDD, PHPUnit) and **Node.js** (MVC, TDD, DDD, Clean Architecture), and have hands-on experience with the following technologies:
-
-- **Programming Languages**: PHP, GoLang, Node.js, TypeScript
-- **Frameworks**: Express, NestJS
-- **Architecture**: REST APIs, Microservices
-- **Cloud Platforms**: AWS, GCP
-- **Development Practices**: Agile (Scrum), Domain-Driven Design, CQRS
-- **DevOps**: CI/CD, Docker, Kubernetes
-- **Infrastructure**: Linux, Terraform (IaC)
-- **Database Technologies**: MongoDB, Prisma, Postgress
-- **Leadership**: Leading development teams, project management
-
-## 💬 Contact Me
-
-If you're looking for a professional with a solid background in backend development using PHP, Node.js, and Go, feel free to reach out via:
-
+Let's get in touch! My email address:
 - **Email**: [marcelojeantech@gmail.com](mailto:marcelojeantech@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/marcelojeantech/)
 
----
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcelojeantech&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelojeantech&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
-### Connect with me on social media:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelojeantech/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mmarcelojean/)
